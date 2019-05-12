@@ -6,6 +6,12 @@
   border: 1px solid rgba(34, 36, 38, 0.15);
   display: block;
   margin-top: 0;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+p {
+  margin-left: 1rem;
 }
 
 .users-div {

@@ -51,7 +51,7 @@ class App extends React.Component {
           <button onClick={this.getUsers}>Get Users</button>
         </div>
 
-        <div className='main-div'>
+        <div className="main-div">
           <div className="no-user">
             <p>{this.state.noUser}</p>
           </div>
