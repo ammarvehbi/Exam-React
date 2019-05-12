@@ -1,0 +1,62 @@
+.button-div {
+  box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
+  margin: 1rem 0;
+  padding: 1em 1em;
+  border-radius: 0.28571429rem;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  display: block;
+  margin-top: 0;
+}
+
+.users-div {
+  width: 31.25%;
+  position: relative;
+  display: inline-block;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  vertical-align: top;
+  line-height: 1.4285em;
+  cursor: pointer;
+}
+
+.list-item {
+  padding-bottom: 0.42857143em;
+  border-bottom: 1px solid;
+  list-style-type: none;
+  padding: 0.21428571em 0;
+  line-height: 1.14285714em;
+  width: 150px;
+}
+
+.main-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: normal;
+}
+
+li {
+  cursor: pointer;
+  list-style-type: none;
+}
+
+.user {
+  position: relative;
+  background: #fff;
+  -webkit-box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
+  box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
+  margin: 1rem 0;
+  padding: 1em 1em;
+  border-radius: 0.28571429rem;
+  border: 1px solid rgba(34, 36, 38, 0.15);
+  line-height: 1.4285em;
+  border-radius: 5px;
+  width: 27rem;
+  margin-left: 1rem;
+}
+
+img {
+  margin-left: 1rem;
+  border-radius: 0.28571429rem;
+}
