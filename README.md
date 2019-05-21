@@ -1,3 +1,3 @@
 ## Exam-React
 
-#### - To see the last version of the application please visit https://user-profiles-ammar.herokuapp.com/
+#### - To see the latest version of the application please visit https://user-profiles-ammar.herokuapp.com/
